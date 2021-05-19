@@ -1,10 +1,7 @@
 # Digital history of representations: analysing identity and nationalism in the *Capuchin Annual* periodical (1930-1977)
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jdh-observer/jdh001-L2gBr3BzwH8Z/main?filepath=DigitalHistoryRepresentations.ipynb)
+
 ## Abstract
 
 Nationalist sentiments formed the basis of the independent Irish state, and, as is often the case in the context of post-colonial countries, its core rhetoric has been accepted in decolonialising national identity agendas. This shared narrative, used by nationalist newspapers and periodicals, has not received enough scholarly attention, especially from an interdisciplinary perspective. This research project offers a case study examining and challenging the attributes of these narrative tropes in an Irish nationalist and religious periodical, the *Capuchin Annual*. This article will argue that a mixed methodology approach drawing from history of representations, as understood in the French historiography, and corpus linguistics combined, is required to conduct a thorough analysis of digitised cultural sources. It will specifically present a potential methodological pattern for projects aiming to analyse representations of concepts such as power, gender, nationalism and identity, and it will devise a template to re-examine Irish nationalism globally. To do so, it will outline the methodology used in this research project, the theoretical background and the various software and tools used. It will also present how this hermeneutic layer permitted the analysis of the trans-media narrative of Irish identity. To exemplify this, it will present the narrative of the Cromwell case study. The analysis of this sub-corpus demonstrated how the periodical aimed to unify Ireland around a common hatred of English colonisation, and how specific images, positive or negative, were used to convey ideas and emotions in a readership aware of the sub-text behind these representations. 
-
-
-## Binder link
-
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jdh-observer/jdh001-L2gBr3BzwH8Z/main?filepath=DigitalHistoryRepresentations.ipynb)
