@@ -1,0 +1,93 @@
+﻿id,issueyear,genre,Title,AuthorName,Page,Words,Pages
+30I,1930,Essay,Historic St Michan's,Rev Father Troy,93 (101),1787,4
+30R,1930,Essay,See Ireland!,C. Stephens,215 (223),804,2
+31C,1931,Essay,The Return of the Franciscans to Tyrconnell,Captain Francis McCullagh,33 (65),2060,6
+31Y,1931,Review,The Financial Administration of Ireland,Maurice Moynihan,233 (265),1453,3
+32H,1932,Essay,More Dusty Documents,"Very Rev Father Angelus, O.M.Cap.",115 (113),4548,9
+32L,1932,Essay,A notable Cork centenary,F. S. K.,158 (156),3974,8
+32M,1932,Testimony,In the Middle of the County Mayo,"Brigid Redmond, M.A., H.D.E.",166 (164),6496,15
+33S,1933,Essay,Roving Through Wicklow,"Brigid Redmond, M.A., H.D.E.",245 (246),7750,16
+34T,1934,Essay,A Ridge of the West,Nora J. Murray,295 (300),1705,5
+35B,1935,Essay,Leitrim of the Lakes,Nora J. Murray,50 (51),7392,17
+36E,1936,Essay,Building and Order,John O'Gorman,118 (121),6266,15
+38D,1938,Testimony,The Lives of Dublin,Francis MacManus,62 (64),6703,14
+38I,1938,Biography,Blessed Oliver Plunket's Cause,"The Most Rev. P. Lyons, Bishop of Kilmore",125 (128),1580,4
+38K,1938,Testimony,We Went to the Blaskets,Donal O'Cahill,145 (148),2584,5
+38M,1938,Essay,Ten Coffins,Professor J.B.Whelehan,201 (216),1880,3
+40V,1940,Essay,Connacht,Unknown,288 (300),506,1
+40W,1940,Testimony,Western Journey,Delia Kiernan,305 (317),2121,4
+41C,1941,Essay,A Prospect of Cork,Denis Barry,69 (73),3811,8
+41F,1941,Essay,A Cork Treasure,Catriona MacLeod,127 (131),3266,7
+42F,1942,Essay,Our Lady of Dublin,Catriona MacLeod,82 (86),5307,10
+42S,1942,Essay,Twilight and Dawn,Father Michael O.F.M. Cap,263 (263),23198,40
+43AI,1943,Testimony,Journey in Ulster,Conal Casey,493 (495),3450,7
+43N,1943,Testimony,"""Where Lagan Streams…""",Máirín Allen,180 (182),4770,8
+43P,1943,Essay,The North-East,Aodh De Blacam,211 (213),4891,9
+44Q1,1944,Poem,Tale of our lost one,Philip Francis Little,268 (272),1538,5
+44T,1944,Essay,Our Lady of Galway,Catriona MacLeod,312 (316),5902,9
+45AA,1945,Biography,James MacDonnell,"David Kennedy, M.Sc.",353 (359),5501,8
+45B,1945,Essay,Brightness of Brightness,Aodh De Blacam,64 (66),7359,13
+45C,1945,Testimony,Wisps of memory,Terence O'Hanlon,95 (97),4197,7
+45K,1945,Essay,Land Without Stars,Benedict Kiely,206 (208),11666,17
+45X,1945,Essay,The Rediscovery of Irish Music,Seán Ó Boyle,310 (316),4674,7
+45Z,1945,Essay,Gael of the Gaels,"The Rev. Fr. Michael, O.F.M. Cap.",327 (333),6904,10
+48D,1948,Essay,The Place of Seven Wonders,The Honble. Mrs. Greville-Nugent,92 (94),4004,14
+48X,1948,Essay,Secret Service of a Past Age,Michael J. Lennon,455 (461),1583,4
+48Y,1948,Essay,Fifty Years On,Doran Hurley,467 (473),4323,8
+49D,1949,Essay,Black Irish,Gearoid Mac Eoin,80 (84),3388,9
+49I16,1949,Comment,Comments,Sceilg,252 (256),4875,9
+49M,1949,Essay,The Jacobite War in Ireland: 1688-1691,"Sir Charles Petrie, Bt.",364 (368),7916,13
+49T,1949,Essay,Fifty years of Irish painting: 1900-1950,Thomas MacGreevy,497 (505),9648,16
+50A,1950,Fiction,The Man with the Seer's Eyes,Douglas Newton,51 (54),5778,12
+50C,1950,Essay,Kerry Aroo!,Joe O'Connor,63 (66),14213,41
+50K,1950,Essay,The Curse of Cromwell,Aodh De Blacam ( ),287 (290),7743,14
+52D,1952,Essay,Rock and hedge,Diarmuid Breathnach,113 (115),9301,19
+52J,1952,Essay,The Capuchins in Cork,The Reverend T. J. Walsh,173 (175),14223,31
+53G,1953,Essay,Twelve men of Muckross,Maurice J. Moriarty,124 (126),5165,10
+53M,1953,Essay,A Marian Year,"His Eminence John Cardinal D'Alton, Archbishop of Armagh, Primate of All Ireland",276 (272),6443,11
+58L,1958,Fiction,An American trilogy,Doran Hurley,155 (160),12905,21
+58Q,1958,Biography,"The first Irish ambassador, father Luke Wadding","Liam Brophy, PhD",264 (265),2902,5
+58S,1958,Essay,The last of the Shanachies,Joseph O'Connor,368 (369),3461,5
+58U,1958,Essay,The choice of circumstance,Diarmuid Murphy,379 (380),6149,11
+59B,1959,Essay,Sheelin: The fairy pool,Father Thomas Halton,60 (64),2564,7
+59G,1959,Essay,Patriotic Opinions of some Munster Priests 1847-1882,John T. Collins,125 (129),2655,5
+59R,1959,Testimony,New Zealand,Father Timoney,309 (309),1163,4
+59W,1959,Testimony,"Father Albert, O.F.M. Cap and Father Dominic, O.F.M. Cap","Father Berard, O.F.M. Cap.",380 (380),2070,14
+60A,1960,Testimony,Ireland and me,Margaret Holland,53 (60),1325,5
+61K,1961,Biography,Teresa Brayton 1868-1943,James Flynn,189 (196),7517,17
+62D,1962,Testimony,"""The Kings asleep in the ground""",Francis MacManus,112 (119),5211,9
+62J,1962,Essay,Great Literature: philosophical musings thereon,Diarmuid Murphy,195 (202),6168,11
+63D,1963,Essay,"Through Kerry, Cork and Limerick with Rinuccini",Father T.J. Walsh,145 (152),9056,23
+63J,1963,Essay,What's the use of Latin?,Beda Herbert,195 (202),4704,8
+63K,1963,Essay,Ireland's unique Abbey,Father Thomas A. Egan,215 (222),6455,20
+63N,1963,Essay,Leadership and Restraint,Joseph Foyle,279 (286),11645,20
+64K,1964,Essay,"Sentiment and sentimentality in ballad, song and lyric",Diarmuid Murphy,224 (228),7500,13
+64Q,1964,Essay,Adare and its poets,Mannix Joyce,322 (326),6347,12
+65E,1965,Essay,James Stephen's reincarnations,Augustine Martin,163 (166),8065,15
+67S,1967,Essay,Thomas Ashe,Seán Ó Lúing,386 (393),4227,8
+68H,1968,Essay,The miracle of America,"Father Paschal, O.F.M. Cap.",158 (162),6444,11
+68X,1968,Essay,The Irish Bishops and the Conscription issue 1918,Tomás Ó Fiaich,351 (350),9522,18
+68Z,1968,Testimony,Conscription and the general headquarters' staff,General Richard Mulcahy,382 (381),8121,14
+69K,1969,Essay,The art of Early Irish illumination,Etienne Rynne,201 (208),8856,22
+69N,1969,Essay,The Joyce brothers of Glenosheen,Mannix Joyce,257 (255),18466,31
+70A,1970,Essay,The Irish Harp,Beda Herbert,53 (57),6111,13
+70R,1970,Testimony,Kerry's activities 1920,Liam MacGowan,304 (308),3251,6
+71D,1971,Essay,Horse racing and the Irish horse,Michael O'Farrell,117 (122),4184,11
+72I,1972,Essay,Austria - from Empire to Nation,Donal Brennan,81 (84),6100,18
+72L,1972,Essay,An Irish Rural Parish,T. J. Walsh,118 (121),7531,24
+72M,1972,Essay,Some religious and social consequences of the reformation,"Father Paschal Larkin, O.F.M.Cap.",147 (150),8965,15
+72N,1972,Essay,The Capuchins in Dublin,"Father Conrad, O.F.M.Cap.",171 (174),15673,30
+72O,1972,Essay,Visual Education in an Irish environment,Máirín Allen,204 (207),3789,10
+72Q,1972,Essay,Ireland and the Paris Commune 1871,Donal Ó Luanaigh,233 (236),7992,14
+72S,1972,Essay,Holy Cross Abbey,William J. Hayes,286 (289),6259,16
+73J,1973,Essay,The Plants,Mary J. P. Scannell,146 (150),6414,22
+74C,1974,Biography,Through the white gate,Bryan MacMahon,65 (70),4671,10
+74Q,1974,Essay,Mayo Musings,Sheila Mulloy,305 (310),2649,7
+74S,1974,Biography,Charlotte Grace O'Brien,Mannix Joyce,324 (329),10551,17
+75M,1975,Biography,Sidney Royce Lysaght,Edward MacLysaght,225 (230),3058,5
+75Q,1975,Essay,Aspects of concern in the religious society of friends with education in Ireland,Gráinne O'Flynn,320 (325),10037,17
+76A,1976,Biography,Archbishop Oliver Plunkett,Alice Curtayne,37 (42),5783,11
+76E,1976,Essay,John Mitchel's call to Protestant Ulster,Seán Cronin,81 (86),6940,12
+76R,1976,Essay,Education and proselytising in Ireland,John Logan,241 (246),6231,10
+77C,1977,Fiction,Of a princess and four Irishmen,Gerard Morris,51 (56),9602,19
+77M,1977,Essay,The Big House,T. F. O'Sullivan,220 (225),5409,12
